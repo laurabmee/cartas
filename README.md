@@ -1,4 +1,4 @@
-## Cartas ao redor do mundo 
+## Cartas ao redor do mundo - Imersão Dev com Google Gemini
 
 Uma aplicação web simples para explorar uma coleção de cartas históricas.
 
